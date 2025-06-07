@@ -1,0 +1,13 @@
+Payer,Payee,Amount,Category,Timestamp
+Priya,Sneha,271.22,Stay,2025-05-15 00:00:00
+Aman,Priya,605.21,Activity,2025-05-14 00:00:00
+Ravi,Aman,263.49,Activity,2025-05-10 00:00:00
+Priya,Ravi,486.7,Activity,2025-05-13 00:00:00
+Priya,Sneha,754.08,Stay,2025-05-10 00:00:00
+Priya,Aman,134.93,Travel,2025-05-11 00:00:00
+Sneha,Ravi,113.91,Food,2025-05-10 00:00:00
+Ravi,Sneha,210.26,Activity,2025-05-13 00:00:00
+Sneha,Priya,711.98,Food,2025-05-14 00:00:00
+Aman,Priya,685.21,Misc,2025-05-15 00:00:00
+Ravi,Priya,745.82,Stay,2025-05-13 00:00:00
+Aman,Priya,282.23,Travel,2025-05-13 00:00:00

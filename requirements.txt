@@ -1,0 +1,8 @@
+docx
+pandas
+numpy
+sklearn.linear_model
+matplotlib.pyplot
+datetime
+os
+
